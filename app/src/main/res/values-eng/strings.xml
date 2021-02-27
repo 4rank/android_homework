@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fedorinchik_practice</string>
+    <string name="but1">Go to the third Activity</string>
+    <string name="but2">Go to the second Activity</string>
+    <string name="but3">Go to the first Activity</string>
+    <string name="text_act1">First Activity</string>
+    <string name="text_act2">Second Activity</string>
+    <string name="text_act3">Third Activity</string>
+    <string name="text_theme">Text to test light and dark theme of the app</string>
+    <string name="text_day">Day theme</string>
+    <string name="text_night">Night theme</string>
+    <string name="text_send">Push to send</string>
+    <string name="but_dn">Change Theme</string>
+</resources>

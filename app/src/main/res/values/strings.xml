@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fedorinchik_practice</string>
+    <string name="but1">Перейти на третью Активити</string>
+    <string name="but2">Перейти на вторую Активити</string>
+    <string name="but3">Перейти на первую Активити</string>
+    <string name="text_act1">Первая Активити</string>
+    <string name="text_act2">Вторая Активити</string>
+    <string name="text_act3">Третья Активити</string>
+    <string name="text_theme">Текст для проверки светлой и темной темы приложения</string>
+    <string name="text_day">Дневная тема</string>
+    <string name="text_night">Ночная тема</string>
+    <string name="text_send">Нажмите чтобы поделиться</string>
+    <string name="but_dn">Сменить тему</string>
+</resources>
